@@ -1,37 +1,38 @@
-# Hai, Saya Broiosme 👋
-
-Selamat datang di profil GitHub saya!
-
-## ✨ Tentang Saya
-- 🔭 Sedang mengerjakan beberapa project seru.
-- 🌱 Aktif belajar web development dan data science.
-- 💡 Terbuka untuk kolaborasi dan diskusi!
-
-## 🚀 Proyek Unggulan
-- [Cookbook](https://github.com/broiosme/cookbook): Koleksi resep digital yang interaktif.
-- [Project Akhir](https://github.com/broiosme/project_akhir): Implementasi tugas akhir berbasis web.
-- [Website App](https://github.com/broiosme/website-app): Website portofolio dan showcase.
-
-## 💻 Bahasa Pemrograman yang Sering Digunakan
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 📊 Statistik GitHub
-![Broiosme's GitHub stats](https://github-readme-stats.vercel.app/api?username=broiosme&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broiosme&layout=compact&theme=radical)
-
-## 🏅 Badge & Achievements
-![Followers](https://img.shields.io/github/followers/broiosme?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/broiosme?affiliations=OWNER&style=social)
-
-## 📫 Kontak Saya
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Website](https://img.shields.io/badge/Website-Portfolio-informational)](https://yourwebsite.com)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=5B4BDB&size=40&lines=Ahmad+Rafi+Firmansyah;Welcome+to+My+Profile!" />
+</div>
 
 ---
 
-> “Tetap belajar, berbagi, dan berkarya!”
+### 👋 About Me 
+I'm Ahmad Rafi Firmansyah, a software developer with a passion for creating impactful solutions. I love coding, learning new technologies, and contributing to open-source projects.  
 
+---
+
+### 🛠 Tech Stack  
+- **Languages**: JavaScript, Python, Java  
+- **Frameworks/Libraries**: React, Node.js, Django  
+- **Databases**: MySQL, MongoDB  
+- **Tools**: Git, Docker, Webpack  
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=broiosme&show_icons=true&theme=tokyonight&bg_color=00000000&icon_color=5B4BDB&text_color=ffffff&border_color=5B4BDB)
+
+---
+
+### 🚀 Featured Projects  
+- [Project One](https://github.com/broiosme/project-one)  
+- [Project Two](https://github.com/broiosme/project-two)  
+- [Project Three](https://github.com/broiosme/project-three)  
+
+---
+
+### 📫 Contact  
+Feel free to reach out to me on:  
+- [LinkedIn](https://www.linkedin.com/in/ahmadrafi)  
+- [Twitter](https://twitter.com/ahmadrafi)  
+- [Email](mailto:ahmadrafi@example.com)  
+
+---
