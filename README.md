@@ -127,22 +127,6 @@ const rafikhul = {
 
 ---
 
-## 🎯 Skill Level
-
-```
-HTML5 & CSS3    ████████████████████  95%   Fondasi utama, pixel-perfect
-Tailwind CSS    ███████████████████░  92%   Utility-first styling favorit
-JavaScript      ██████████████████░░  87%   ES6+, DOM, async/await
-Flutter & Dart  █████████████████░░░  83%   UI mobile cross-platform
-PHP & Laravel   ████████████████░░░░  78%   Backend & REST API
-React.js        ███████████████░░░░░  73%   Component-based UI
-MySQL           ██████████████░░░░░░  70%   Database & relasi tabel
-Figma           █████████████░░░░░░░  65%   Desain & prototyping UI
-Supabase        ████████████░░░░░░░░  60%   BaaS & real-time database
-```
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
