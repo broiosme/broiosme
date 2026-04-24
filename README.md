@@ -17,7 +17,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to Work"/>
   &nbsp;
-  <a href="https://rfio.dev">
+  <a href="https://broiosme.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-rfio.dev-5B4BDB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
